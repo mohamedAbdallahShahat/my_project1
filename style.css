@@ -3,4 +3,9 @@ body{
 }
 h1{
     color: black;
+
+}
+table{
+    border: 0ch;
+    background-color: blueviolet;
 }

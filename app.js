@@ -1,1 +1,1 @@
-alert("the frist");
+alert ("the frist");
